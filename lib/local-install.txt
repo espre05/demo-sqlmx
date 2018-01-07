@@ -1,0 +1,3 @@
+mvn install:install-file -Dfile=t4sqlmx-3.3.jar -DgroupId=com.hp.nonstop -DartifactId=t4sqlmx -Dversion=3.3 -Dpackaging=jar
+
+
